@@ -57,33 +57,26 @@ body {
 .main {
 
     display: flex;
-    alig
     justify-content: space-between;
 
 }
 
-.container {
-    .container
-        max-width: 1440px;
-        margin: 0 auto;
-}
-
 .left {
-    
+
     width: 50%;
     margin: 50px;
 }
 
 .right {
-    
+
     width: 50%;
     margin: 50px;
     padding-top: 65px;
-    
+
 }
 
 .middle {
-    
+
     align-items: center;
     padding-bottom: 0;
     display: flex;
@@ -99,9 +92,6 @@ body {
     text-align: center;
 
 }
-
-
-
 
 .languagelist {
     display: flex;
