@@ -18,6 +18,11 @@ body {
     border: 2px solid rgb(50, 51, 56);
 }
 
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
 .header {
 
     background-color:rgba(164, 192, 230, 0.274);
